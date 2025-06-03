@@ -9,8 +9,8 @@ quick_facts:
   - "🎓 Freshman, CS @ MSU"
   - "🔬 Research: HCI + AI"
   - "📍 Based in PG Maryland"
-
+  - Enthusiastic, Curious and Quick Learner
 
 linkedin: https://www.linkedin.com/in/nigam-neupane-8536531a8/
-image: /assets/images/me.jpeg
+image: /assets/images/20241123_163433.jpg
 ---
