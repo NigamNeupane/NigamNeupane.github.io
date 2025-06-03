@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in PG Maryland"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: www.linkedin.com/in/nigam-neupane-8536531a8
+linkedin: https://www.linkedin.com/in/nigam-neupane-8536531a8/
 image: /assets/images/me.jpeg
 ---
