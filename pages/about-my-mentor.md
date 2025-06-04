@@ -7,7 +7,7 @@ graduate_mentor:
   name: Amara (Rebecca) Eze
   title: Mathematician| Graduate Student | Instructor of Record | Research Assistant at Morgan State University
   image: /assets/images/student.jpeg
-  linkedin: https://www.linkedin.com/in/amara-eze-569b59259/
+  website: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
     Amara Eze is a PhD candidate in Industrial and Computational Mathematics. Her research is centered on developing effective iterative algorithms to address nonlinear optimization issues, especially in the realms of healthcare and image processing within machine learning. One of her ongoing projects is focused on creating an algorithm to enhance disease prediction.
 
@@ -17,7 +17,7 @@ faculty_mentor:
   name: Dr. Olaniyi Iyiola
   title: Associate Professor at Morgan State University
   image: /assets/images/faculty.jpeg
-  linkedin: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
+  website: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
   bio: |
     Dr. Olaniyi lyiola is a pioneering figure in the field of mathematics. He is associate Professor at Morgan State University specializing in the intersection of mathematics and artificial intelligence. He is a passionate researcher in fields such as Information Theory, Graph Theory, Numerical Methods, and Computational Complexity, with a focus on advancing Al applications in diverse domains, including cybersecurity, biomedical science, healthcare, and financial services.
     
