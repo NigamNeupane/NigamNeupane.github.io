@@ -29,5 +29,5 @@ about:
   gallery:
     - /assets/images/1000010091.jpg
     - /assets/images/1000012708.jpg
-    - /assets/images/20241123_163433.jpg
+
 ---
