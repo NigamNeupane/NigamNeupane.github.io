@@ -10,7 +10,6 @@ graduate_mentor:
   website: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
     Amara Eze is a PhD candidate in Industrial and Computational Mathematics. Her research is centered on developing effective iterative algorithms to address nonlinear optimization issues, especially in the realms of healthcare and image processing within machine learning. One of her ongoing projects is focused on creating an algorithm to enhance disease prediction.
-
 She has also shared her research findings at numerous conferences both nationally and internationally, including in Paris, France. She is well-versed in various machine learning techniques such as ELM, SVM,and kNN.
 
 faculty_mentor:
