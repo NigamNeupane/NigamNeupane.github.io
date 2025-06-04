@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Nigam Neupane
   role: Student Researcher, CS @ MSU
-  image: 
+  image: assets/images/20241123_163433.jpg
   linkedin: https://www.linkedin.com/in/nigam-neupane-8536531a8/
   bio: |
     I’m currently a undergraduate freshman studying Computer Science at Morgan State University in Baltimore, Maryland. I expect to graduate in 2029.
