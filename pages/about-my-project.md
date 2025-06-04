@@ -17,7 +17,7 @@ approach: |
 
 outcome: |
   By the end of the program, I will gain practical skills in data handling, model building, and performance evaluation. The optimized algorithm is expected to enhance prediction accuracy and demonstrate how AI can support early disease detection and improve healthcare outcomes.
-final_report_url: TBD
+final_report_url: /assets/documents/my_final_report.pdf
 
 grad_mentor:
   name: Amara (Rebecca) Eze
