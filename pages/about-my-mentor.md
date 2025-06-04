@@ -4,23 +4,23 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  name: Amara (Rebecca) Eze
+  title: Mathematician| Graduate Student | Instructor of Record | Research Assistant at Morgan State University
+  image: /assets/images/student.jpeg
+  linkedin: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Amara Eze is a PhD candidate in Industrial and Computational Mathematics. Her research is centered on developing effective iterative algorithms to address nonlinear optimization issues, especially in the realms of healthcare and image processing within machine learning. One of her ongoing projects is focused on creating an algorithm to enhance disease prediction.
+
+She has also shared her research findings at numerous conferences both nationally and internationally, including in Paris, France. She is well-versed in various machine learning techniques such as ELM, SVM,and kNN.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr. Olaniyi Iyiola
+  title: Associate Professor at Morgan State University
+  image: /assets/images/faculty.jpeg
+  linkedin: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Dr. Olaniyi lyiola is a pioneering figure in the field of mathematics. He is associate Professor at Morgan State University specializing in the intersection of mathematics and artificial intelligence. He is a passionate researcher in fields such as Information Theory, Graph Theory, Numerical Methods, and Computational Complexity, with a focus on advancing Al applications in diverse domains, including cybersecurity, biomedical science, healthcare, and financial services.
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+Dr. Iyiola is also the lead organizer of a special issue titled "Advances in Computing Methods for Artificial Intelligence" to be published in Mathematics, MDPI, aimed at pushing the frontiers of Al research. His contributions to the academic community were recently recognized with the MGB-SIAM Early Career Fellowship for 2023-2025, highlighting his exceptional achievements and commitment to supporting diversity, equity, and inclusion in STEM fields.
 
 ---
