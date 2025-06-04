@@ -12,7 +12,9 @@ problem: |
 
 approach: |
   The project follows following approach:
-    -We will develop and implement a custom algorithm to optimize model output weights as part of a machine learning system.
+  
+     -We will develop and implement a custom algorithm to optimize model output weights as part of a machine learning system.
+     
     -The project includes working with real medical data and applying tools such as Python, MATLAB, SPSS, and R to build models, handle data, and evaluate performance.
 
 outcome: |
