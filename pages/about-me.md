@@ -27,7 +27,7 @@ about:
       description: I like to play various games during my freetime. I like playing shooter games, strategy games and MOBA games.
 
   gallery:
-    - /assets/images/1000010091.jpg
-    - /assets/images/1000012708.jpg
+    - image: /assets/images/1000010091.jpg
+    - image: /assets/images/1000012708.jpg
 
 ---
