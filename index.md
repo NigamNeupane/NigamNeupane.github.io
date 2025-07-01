@@ -8,7 +8,7 @@ motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 quick_facts:
   - "🎓 Freshman, CS @ MSU"
   - "🔬 Research: HCI + AI"
-  - "📍 Based in PG Maryland"
+  - "📍 Based in Baltimore Maryland"
   - Enthusiastic, Curious and Quick Learner
 
 linkedin: https://www.linkedin.com/in/nigam-neupane-8536531a8/
